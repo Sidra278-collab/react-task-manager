@@ -12,6 +12,9 @@ A responsive Task Manager built with React and JavaScript for organizing and man
 - Add due dates
 - Responsive design
 - Clean and user-friendly interface
+## Preview
+
+![Task Manager Preview](task-manager-preview.png)
 
 ## Technologies Used
 
